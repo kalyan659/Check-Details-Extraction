@@ -8,8 +8,8 @@ This Python-based application leverages Tesseract OCR to extract essential detai
 
 ## Features
 
-*Image and PDF Support: Accepts both image and PDF formats as input.
-*Tesseract OCR Integration: Employs Tesseract OCR engine for accurate text recognition.
+* Image and PDF Support: Accepts both image and PDF formats as input.
+* Tesseract OCR Integration: Employs Tesseract OCR engine for accurate text recognition.
 Data Extraction: Extracts key details such as check number, date and amount.
 CSV File Generation: Organizes extracted data into a CSV file for further processing.
 GUI Interface: Provides a visual interface to display extracted data.
