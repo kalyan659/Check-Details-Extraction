@@ -10,9 +10,9 @@ This Python-based application leverages Tesseract OCR to extract essential detai
 
 * Image and PDF Support: Accepts both image and PDF formats as input.
 * Tesseract OCR Integration: Employs Tesseract OCR engine for accurate text recognition.
-Data Extraction: Extracts key details such as check number, date and amount.
-CSV File Generation: Organizes extracted data into a CSV file for further processing.
-GUI Interface: Provides a visual interface to display extracted data.
+* Data Extraction: Extracts key details such as check number, date and amount.
+* CSV File Generation: Organizes extracted data into a CSV file for further processing.
+* GUI Interface: Provides a visual interface to display extracted data.
 ## Install Required Libraries
 Use the requirements.txt file to install required libraries. 
 ## Run this Script
