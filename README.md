@@ -13,6 +13,12 @@ This Python-based application leverages Tesseract OCR to extract essential detai
 * Data Extraction: Extracts key details such as check number, date and amount.
 * CSV File Generation: Organizes extracted data into a CSV file for further processing.
 * GUI Interface: Provides a visual interface to display extracted data.
+# Demo
+
+
+https://github.com/user-attachments/assets/681bd35d-95e7-40b0-bb05-9891d62a1e54
+
+
 ## Install Required Libraries
 Use the requirements.txt file to install required libraries. 
 ## Run this Script
